@@ -1,5 +1,4 @@
-Certainly! Here's a short readme for the provided Aleo program code:
-
+Created by yumsan11
 ---
 
 # Token Transfer and Minting Program
