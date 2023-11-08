@@ -1,6 +1,6 @@
 program token.aleo {
     // On-chain storage of an `account` map, with `address` as the key,
-    // and `u64` as the value.
+    // and `u64` - positive integer as the value.
     mapping account: address => u64;
 
     record token {
